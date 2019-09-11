@@ -1,3 +1,6 @@
 [submodule "Signal-Server"]
 	path = Signal-Server
 	url = https://github.com/duanwujie/Signal-Server.git
+[submodule "Signal-Desktop"]
+	path = Signal-Desktop
+	url = https://github.com/duanwujie/Signal-Desktop.git
