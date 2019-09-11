@@ -4,3 +4,12 @@
 [submodule "Signal-Desktop"]
 	path = Signal-Desktop
 	url = https://github.com/duanwujie/Signal-Desktop.git
+[submodule "Signal-iOS"]
+	path = Signal-iOS
+	url = https://github.com/duanwujie/Signal-iOS.git
+[submodule "Cable-Server"]
+	path = Cable-Server
+	url = https://github.com/duanwujie/Cable-Server.git
+[submodule "Cable-Android"]
+	path = Cable-Android
+	url = https://github.com/duanwujie/Cable-Android.git
