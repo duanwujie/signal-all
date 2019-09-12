@@ -13,3 +13,9 @@
 [submodule "Cable-Android"]
 	path = Cable-Android
 	url = https://github.com/duanwujie/Cable-Android.git
+[submodule "dropwizard"]
+	path = dropwizard
+	url = https://github.com/duanwujie/dropwizard.git
+[submodule "ContactDiscoveryService"]
+	path = ContactDiscoveryService
+	url = https://github.com/duanwujie/ContactDiscoveryService.git
